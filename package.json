@@ -1,5 +1,6 @@
 {
   "Scripts":{
+      "build": "npm i",
     "start":"node server.js"
   },
   "dependencies": {
